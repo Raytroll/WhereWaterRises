@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{227BF44C-46DA-5667-A6A8-D5BDF0876CE5}",
+	"EngineAssociation": "{2B837708-4DA7-CD50-0469-D3AA342CCDEE}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,14 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SerializationUtils",
 			"Enabled": true
 		}
 	]
