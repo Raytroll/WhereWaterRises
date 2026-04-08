@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{5E8959D4-458A-D0EC-184B-948612FC7FDF}",
+	"EngineAssociation": "{2B837708-4DA7-CD50-0469-D3AA342CCDEE}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -16,7 +16,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SerializationUtils",
 			"Enabled": true
 		}
 	]
