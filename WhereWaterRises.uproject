@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{873BB7CB-45A9-86D3-1A37-47BD5E7E30B1}",
+	"EngineAssociation": "{51DC404F-49D0-B4D1-F965-51A3E31F38C9}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,10 +13,6 @@
 		},
 		{
 			"Name": "GameplayStateTree",
-			"Enabled": true
-		},
-		{
-			"Name": "Landmass",
 			"Enabled": true
 		}
 	]
